@@ -1,0 +1,3 @@
+setup.txt
+
+get ipynb from dc since it seems to not work there
