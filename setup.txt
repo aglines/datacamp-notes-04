@@ -1,3 +1,11 @@
 setup.txt
 
 get ipynb from dc since it seems to not work there
+
+ok DC cells SEEM to work howver the errors they give are not nec always point to the actual error,
+in the ways that doing ti myself here does.  Good lesson!
+
+Ok , kl 12 and still doing data structure review, that seems reasonable 
+this is fundamental stuff i need to KNOW it
+
+
